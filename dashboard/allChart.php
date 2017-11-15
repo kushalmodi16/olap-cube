@@ -13,14 +13,14 @@ $XaxisName3 = 'Location';
 $drilldown_file_name3='piedrilldown.php';
 
 
-$series_f_key3 = 'product';
+/*$series_f_key3 = 'product';
 
 $series_p_key3 = 'p_key';
 
 $series_name3 = 'product'; 
 
 $series_table3 = 'product';
-
+*/
 
 $horizontal_axis_name3 = 'time_year';
 
